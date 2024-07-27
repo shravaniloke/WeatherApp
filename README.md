@@ -10,6 +10,7 @@ Responsive design for various screen sizes
 HTML
 CSS
 JavaScript
-## APIs: OpenWeatherMap API
+## APIs: 
+OpenWeatherMap API
 ## Demo 
 ![Screenshot (128)](https://github.com/user-attachments/assets/470bf749-16f2-4610-95fe-17c8eb6af984)
